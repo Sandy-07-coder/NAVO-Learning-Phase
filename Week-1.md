@@ -45,12 +45,13 @@
 - **FlexBox**  : [Project02](./Projects/Week01-Proj/Project-02.md)
 - **Grid** : [Task](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
 
+**For Grid Completion of first 3 task are enough**
+
 ### Optional Project
 
 - **Clone the Design in CSS :** [Project03](./Projects/Week01-Proj/Project-03.md)
 
-**For Grid Completion of first 3 task are enough**
-
+  
 
 
 
