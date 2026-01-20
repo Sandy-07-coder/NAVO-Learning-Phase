@@ -45,16 +45,54 @@
 - **FlexBox**  : [Project02](./Projects/Week01-Proj/Project-02.md)
 - **Grid** : [Task](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
 
+### Optional Project
+
+- **Clone the Design in CSS :** [Project03](./Projects/Week01-Proj/Project-03.md)
+
 **For Grid Completion of first 3 task are enough**
 
+
+
+
 ## JavaScript (7 days)
+
 ## Learning Resource
-- Updated soon
+
+**Topics Covered:**
+
+- JS Introduction and Basics
+- Learn JS by building games
+
+### Introduction and Basics
+
+- **Youtube** : [Intro](https://youtu.be/hp_hWDczZQQ?list=PLN7X89Z4ZAdpluEmQtbhxv3cGTGYn8ztA)
+- **Youtube** : [Basics](https://youtu.be/4-vHE79MHsM?list=PLN7X89Z4ZAdpluEmQtbhxv3cGTGYn8ztA)
+
+### Learn JS by building games
+
+**Note** : To learn by doing we can use Scrimba platform free plan, so we can get tight hold in JS, alse we will more focus in JS logic rather than CSS style
+
+- **How to use Scrimba :** [Demo](https://youtu.be/rp4H28VLrVY)
+- **Course Link in Scrimba :** [Scrimba-JS-Course](https://scrimba.com/learn-javascript-c0v) 
+- **First Five Chapters are enough**
+
+#### If you want to follow in youtube 
+- **Youtube Link**: [Link](https://youtu.be/jS4aFq5-91M)
+
+
+
 
 ## Practice
-- Updated soon
+
+### Introduction and Basics
+
+- **website** : [Link](https://www.w3schools.com/js/)
+
 
 ## Project
-- Updated soon
+
+- **Basic JS - DOM manipulation :** [Project04](./Projects/Week01-Proj/Project-04.md)
+- **Rock-Paper-Scissor Game :** [Project05](./Projects/Week01-Proj/Project-05.md)
 
 
+// More need to be updated soon
