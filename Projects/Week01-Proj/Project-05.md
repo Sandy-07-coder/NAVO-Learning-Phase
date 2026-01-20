@@ -1,6 +1,6 @@
 # Projects For Week 1 (10 days)
 
-## Project 4: Rock Paper Scissors Game
+## Project 5: Rock Paper Scissors Game
 
 **What You Will Build:**
 

@@ -1,6 +1,6 @@
 # Projects For Week 1 (10 days)
 
-## Project 3: Color Flipper
+## Project 4: Color Flipper
 
 **What You Will Build:**
 
