@@ -30,4 +30,4 @@
 
 **Project-Submission**:
 
-- Guidelines : [Project-submission-guidelines](./project-submission.md)
+- Guidelines : [Project-submission-guidelines](../project-submission.md)
