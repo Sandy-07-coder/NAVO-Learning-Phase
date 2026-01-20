@@ -15,7 +15,7 @@
 
 **Project Preview:**
 
-![Survey Form Preview](./img/image01.png)
+![Survey Form Preview](../img/image01.png)
 
 **Tools Needed:**
 
