@@ -94,6 +94,7 @@
 
 - **Basic JS - DOM manipulation :** [Project04](./Projects/Week01-Proj/Project-04.md)
 - **Rock-Paper-Scissor Game :** [Project05](./Projects/Week01-Proj/Project-05.md)
-
+- **Todo List 1:** [Project06](./Projects/Week01-Proj/Project-06.md)
+- **Todo List 2:** [Project07](./Projects/Week01-Proj/Project-07.md)
 
 // More need to be updated soon
